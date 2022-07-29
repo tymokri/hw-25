@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .houses-img {
+        width: -webkit-fill-available;
+    }
+
+    .subtitle {
+        color: #2A2C1F;
+        font-weight: bold;
+    }
+}
